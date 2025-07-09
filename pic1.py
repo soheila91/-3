@@ -1,6 +1,6 @@
 import turtle
 t= turtle.Turtle()
-t.speed(-1)
+t.speed(0)
 length=10
 step=10
 
